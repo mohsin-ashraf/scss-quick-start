@@ -1,1 +1,0 @@
-Add you variables here in different scss files
